@@ -15,7 +15,7 @@ const Herosection = () => {
             </div>
             <div className="w-1/2 hidden lg:block">
                 {/* Image */}
-                <img src="/src/assets/Images/heroimage.svg" alt="heroimage" />
+                <img src="/src/assets/Images/test1.jpg" alt="heroimage" />
             </div>
         </div>
     )
