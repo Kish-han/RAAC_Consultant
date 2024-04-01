@@ -2,7 +2,7 @@
 const Herosection = () => {
     return (
         <div className="h-[93vh] font-po flex justify-center items-center px-16 relative overflow-hidden">
-            <img src="/src/assets/Images/Rings.png" alt="Rings" className="absolute bottom-5 -right-36 z-0 " />
+            <img src="/Rings.png" alt="Rings" className="absolute bottom-5 -right-36 z-0 " />
             <img src="/Rings.png" alt="Rings" className="absolute -top-24 -left-40 z-0 rotate-180" />
             <div className="lg:w-1/2 ">
                 {/* Text */}
@@ -15,7 +15,7 @@ const Herosection = () => {
             </div>
             <div className="w-1/2 hidden lg:block">
                 {/* Image */}
-                <img src="/public/Images/heroimage.svg" alt="heroimage" />
+                <img src="/heroimage.svg" alt="heroimage" />
             </div>
         </div>
     )
