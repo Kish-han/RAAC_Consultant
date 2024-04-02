@@ -16,7 +16,7 @@ const Whatweoffer = () => {
           Compliance, and Tax Advisory expertise.
         </p>
       </div>
-      <div className="mt-5 flex flex-wrap gap-x-8 items-center justify-center lg:px-28 gap-y-10">
+      <div className="mt-10 flex flex-wrap gap-x-8 items-center justify-center lg:px-28 gap-y-10">
         <Infocard
           num="01"
           icon="/acc.png"
