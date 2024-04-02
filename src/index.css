@@ -2,8 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
+@layer base {
+  * {
+    @apply box-border;
+  }
+  html {
+    scroll-behavior: smooth !important;
+  }
+}
 
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;

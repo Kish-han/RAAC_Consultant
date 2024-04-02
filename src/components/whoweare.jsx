@@ -1,7 +1,7 @@
 
 const Whoweare = () => {
     return (
-        <div className="px-10 pb-4 lg:h-[94vh] bg-[#F8F9FF]">
+        <div id="about" className="px-10 pb-4 pt-12 bg-[#F8F9FF]">
             <div>
                 <div className="flex items-center justify-center py-5 space-x-4">
                     <img src="/rocket.png" className="w-9" />

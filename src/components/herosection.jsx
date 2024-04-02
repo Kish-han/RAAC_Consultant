@@ -1,7 +1,7 @@
 
 const Herosection = () => {
     return (
-        <div className="h-[93vh] font-po flex justify-center items-center px-16 lg:px-24 relative overflow-hidden">
+        <div id="" className="h-[93vh] font-po flex justify-center items-center px-16 lg:px-24 relative overflow-hidden">
             <img src="/Rings.png" alt="Rings" className="absolute bottom-5 -right-36 z-0 " />
             <img src="/Rings.png" alt="Rings" className="absolute -top-24 -left-40 z-0 rotate-180" />
             <div className="lg:w-1/2 ">
