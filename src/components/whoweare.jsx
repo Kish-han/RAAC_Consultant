@@ -37,7 +37,9 @@ const Whoweare = () => {
                 </div>
             </div>
             <div className="hidden lg:flex items-center justify-center mt-4">
+            <a href="#contact">
                 <button className="bg-[#253880] hover:bg-[#030F3E] text-white px-3 md:px-6 py-2 mt-4 rounded-md ">Get in touch</button>
+            </a>
             </div>
         </div>
     )

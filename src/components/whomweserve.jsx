@@ -28,7 +28,7 @@ const WhomWeServe = () => {
                     short='If you are an individual working towards your goals but struggling with all the compliance needs of being an entrepreneur, look no further. ...'
                     long='If you are an individual working towards your goals but struggling with all the compliance needs of being an entrepreneur, look no further. We’ll be your companion, coach, and biggest cheerleader in this journey.  Having us on board means you get the best minds in the industry to keep your books and papers in check. You also gain access to our advisory services that help you manage your accounts and plan your taxes the best way you can.' />
             </div>
-            <div className="flex flex-col lg:flex-row justify-center items-center w-[88vw] xl:w-[75vw] mx-auto bg-white rounded-md mt-12 space-x-4">
+            <div className="flex flex-col lg:flex-row justify-center items-center w-[88vw] xl:w-[75vw] mx-auto bg-white rounded-md mt-16 space-x-4">
                 <div className="w-full lg:w-1/2 h-full">
                     <img src="/banner.jpg" className="w-[95%] h-[550px] object-cover rounded-xl" />
                 </div>
@@ -53,7 +53,9 @@ const WhomWeServe = () => {
                     </div>
                     <div className="flex flex-col items-center mt-3">
                         <p className="text-[22px] text-[#253880] text-center font-semibold mt-3">Get in touch with our team of experts!</p>
-                        <button className="bg-[#253880] hover:bg-[#030F3E] text-white px-3 md:px-6 py-2 mt-4 rounded-md ">Get in touch</button>
+                        <a href="#contact">
+                            <button className="bg-[#253880] hover:bg-[#030F3E] text-white px-3 md:px-6 py-2 mt-4 rounded-md ">Get in touch</button>
+                        </a>
                     </div>
 
                 </div>
