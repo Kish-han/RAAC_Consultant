@@ -12,8 +12,7 @@ const Whatweoffer = () => {
           </h1>
         </div>
         <p className="text-[24px] font-semibold text-center lg:w-[700px] mx-auto">
-          RAAC provides extensive financial advisory services, focusing on Legal
-          Compliance, and Tax Advisory expertise.
+        RAAC provides extensive financial advisory services, focusing on book keeping, statutory compliance, and tax advisory expertise.
         </p>
       </div>
       <div className="mt-10 flex flex-wrap gap-x-8 items-center justify-center lg:px-28 gap-y-10">

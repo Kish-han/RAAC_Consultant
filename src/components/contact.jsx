@@ -1,10 +1,6 @@
 import { useRef, useState } from "react";
-// import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
-// import { styles } from "../styles";
-// import { EarthCanvas } from "./canvas";
-// import { SectionWrapper } from "../hoc";
-// import { slideIn } from "../utils/motion";
+
 import { useEffect } from "react";
 
 const Contact = () => {
@@ -50,13 +46,13 @@ const Contact = () => {
             .send(
                 'service_v38xqb6',
                 'template_fjfb4hz',
-                {
-                    from_name: form.name,
-                    to_name: "Kishan",
-                    from_email: form.email,
-                    to_email: "Kishanprasad0901@gmail.com",
-                    message: form.message,
-                },
+                // {
+                //     from_name: form.name,
+                //     to_name: "Kishan",
+                //     from_email: form.email,
+                //     to_email: "Kishanprasad2001@gmail.com",
+                //     message: form.message,
+                // },
                 'te5OTmCDa_eNPatGp'
             )
             .then(
