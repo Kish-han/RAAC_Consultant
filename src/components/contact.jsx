@@ -44,16 +44,16 @@ const Contact = () => {
 
         emailjs
             .send(
-                'service_v38xqb6',
-                'template_fjfb4hz',
-                // {
-                //     from_name: form.name,
-                //     to_name: "Kishan",
-                //     from_email: form.email,
-                //     to_email: "Kishanprasad2001@gmail.com",
-                //     message: form.message,
-                // },
-                'te5OTmCDa_eNPatGp'
+                'service_azrnhbk',
+                'template_rvy9068',
+                {
+                    from_name: form.name,
+                    to_name: "RAAC",
+                    from_email: form.email,
+                    to_email: "raac.advisors@gmail.com",
+                    message: form.message,
+                },
+                'VDqfhlZTOMGCcWoO2'
             )
             .then(
                 () => {
