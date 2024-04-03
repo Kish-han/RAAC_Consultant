@@ -43,14 +43,14 @@ const Whatweoffer = () => {
           icon="/legal.png"
           short="Our team of experts offers a wide range of services that educate and insulate our clients in all areas of legal..."
           title="Legal Compliance"
-          long="Our team of experts offers a wide range of services that educate and insulate our clients in all areas of legal compliances. Property assessment and registrations, registrations of legal entities, contracts, agreements, representations and advisory services are are all in a day’s work for us!"
+          long="Our team of experts offers a wide range of services that educate and insulate our clients in all areas of legal compliances. Registrations of legal entities, contracts, agreements, representations and advisory services are are all in a day’s work for us!"
         />
         <Infocard
           num="05"
           icon="/tax.png"
           short="Our firm provides extensive tax advisory and tax planning services. We walk alongside our clients as they navigate...."
           title="Tax Advisory"
-          long="Our firm provides extensive tax advisory and tax planning services. We walk alongside our clients as they navigate the extensive web of tax compliances such as GST, IT, TDS, PT etc. with support services ranging across registrations to periodic filings. FinCell has a well-established team of tax experts who take charge of any tax assessments or representation requirements of our clients."
+          long="Our firm provides extensive tax advisory and tax planning services. We walk alongside our clients as they navigate the extensive web of tax compliances such as GST, IT, TDS, PT etc. with support services ranging across registrations to periodic filings. RAAC has a well-established team of tax experts who take charge of any tax assessments or representation requirements of our clients."
         />
         <Infocard
           num="06"

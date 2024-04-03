@@ -9,7 +9,7 @@ const Navbar = () => {
     return (
         <nav className="fixed right-0 left-0 top-0  flex items-center justify-between pl-4 lg:px-10 h-12 z-40 bg-[#F6F8FF] shadow-md">
             {/* Logo */}
-            <h1>RAAC</h1>
+            <h1 className="text-[18px] font-bold">RAAC Advisors</h1>
             {/* mobileNavbar */}
             <div className="navlinks relative ">
                 <div className="lg:hidden text-[30px] mr-4 cursor-pointer">

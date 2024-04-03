@@ -7,8 +7,7 @@ const Whoweare = () => {
                     <img src="/rocket.png" className="w-9" />
                     <h1 className="text-[32px] font-bold text-[#253880]">Who We Are</h1>
                 </div>
-                <p className="text-[24px] font-semibold text-center lg:w-[700px] mx-auto">RAAC is a comprehensive financial advisory services firm specialising in Statutory
-                    Legal Compliance, and Tax Advisory</p>
+                <p className="text-[24px] font-semibold text-center lg:w-[700px] mx-auto">RAAC is a comprehensive financial advisory services firm specialising in Book keeping, Statutory compliance and Tax advisory</p>
             </div>
             <div className="flex justify-around flex-col items-center lg:flex-row">
                 <div className=" mt-20 w-[320px] lg:w-[250px] xl:w-[320px] h-[360px] bg-[#E1E7FE] pt-24 py-16 px-4 rounded-md relative">
