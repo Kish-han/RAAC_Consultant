@@ -6,7 +6,7 @@ const Footer = () => {
                 Copyright © 2024 RAAC Advisors. All Rights Reserved.
             </p>
             <p>
-                Website Designed by <a href={"https://simplifyr.in/"}>Simplifyr</a>
+            <a href={"https://simplifyr.in/"}>Website Designed by Simplifyr</a>
             </p>
         </div>
     )

@@ -12,7 +12,8 @@ const Whatweoffer = () => {
           </h1>
         </div>
         <p className="text-[24px] font-semibold text-center lg:w-[700px] mx-auto">
-        RAAC provides extensive financial advisory services, focusing on book keeping, statutory compliance, and tax advisory expertise.
+          RAAC provides extensive financial advisory services, focusing on book
+          keeping, statutory compliance, and tax advisory expertise.
         </p>
       </div>
       <div className="mt-10 flex flex-wrap gap-x-8 items-center justify-center lg:px-28 gap-y-10">
@@ -33,9 +34,9 @@ const Whatweoffer = () => {
         <Infocard
           num="03"
           icon="/outsource.png"
-          short="We provide end-to-end solutions for businesses looking at outsourcing their accounting or payroll...."
+          short="We provide end-to-end solutions for organization looking at outsourcing their accounting or payroll...."
           title="Outsourcing"
-          long="We provide end-to-end solutions for businesses looking at outsourcing their accounting or payroll management. Once appointed, our dedicated team ensures that all the needs of your organisation are fulfilled and you have the liberty to focus on your core operations."
+          long="We provide end-to-end solutions for organization looking at outsourcing their accounting or payroll management. Once appointed, our dedicated team ensures that all the needs of your organisation are fulfilled and you have the liberty to focus on your core operations."
         />
         <Infocard
           num="04"

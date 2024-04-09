@@ -6,7 +6,7 @@ const Herosection = () => {
             <img src="/Rings.png" alt="Rings" className="absolute -top-24 -left-40 z-0 rotate-180" />
             <div className="lg:w-1/2 ">
                 {/* Text */}
-                <h1 className="text-[38px] text-center lg:text-left lg:text-[40px] text-[#030F3E] font-bold">Bring <span className="text-[#253880]">Amazing Financial Health</span> to Your Business.</h1>
+                <h1 className="text-[38px] text-center lg:text-left lg:text-[40px] text-[#030F3E] font-bold">Bring <span className="text-[#253880]">Amazing Financial Health</span> to Your Organization.</h1>
                 <p className="text-[#6E7491] lg:text-[17px] text-center lg:text-left mt-4"> Achieve Stability, Growth, and Long-Term Success in Your Finances</p>
                 <div className="text-center lg:text-left mt-6 flex items-center  justify-center lg:justify-start">
                 <a href="#contact">

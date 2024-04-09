@@ -23,7 +23,7 @@ const Whoweare = () => {
                         <img src="/bulb.png" />
                     </div>
                     <h4 className="text-[18px] lg:text-[16px] xl:text-[18px] text-center font-semibold">
-                        We engage with you to design customised solutions. Our team of experts focuses on preemptive advisory services and building financial systems to ensure hassle-free management and scaling-up of your business.
+                        We engage with you to design customised solutions. Our team of experts focuses on preemptive advisory services and building financial systems to ensure hassle-free management and scaling-up of your organization.
                     </h4>
                 </div>
                 <div className=" mt-20 w-[320px] lg:w-[250px] xl:w-[320px] h-[360px] bg-[#E1E7FE] pt-24 py-16 px-4 rounded-md relative">
@@ -36,9 +36,9 @@ const Whoweare = () => {
                 </div>
             </div>
             <div className="hidden lg:flex items-center justify-center mt-4">
-            <a href="#contact">
-                <button className="bg-[#253880] hover:bg-[#030F3E] text-white px-3 md:px-6 py-2 mt-4 rounded-md ">Get in touch</button>
-            </a>
+                <a href="#contact">
+                    <button className="bg-[#253880] hover:bg-[#030F3E] text-white px-3 md:px-6 py-2 mt-4 rounded-md ">Get in touch</button>
+                </a>
             </div>
         </div>
     )
